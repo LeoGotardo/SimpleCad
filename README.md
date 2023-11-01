@@ -1,4 +1,4 @@
-# User Authentication System - Documentation
+# ✓  User Authentication System - Documentation
 
 ## Introduction
 
